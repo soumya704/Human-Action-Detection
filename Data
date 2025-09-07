@@ -1,1 +1,4 @@
 
+#!/bin/bash
+curl -L -o ~/Downloads/mobile-health.zip\
+  https://www.kaggle.com/api/v1/datasets/download/gaurav2022/mobile-health
